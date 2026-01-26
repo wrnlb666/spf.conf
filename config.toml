@@ -9,7 +9,7 @@ editor = ''
 dir_editor = 'code'
 # 
 # Auto check for update
-auto_check_update = false
+auto_check_update = true
 # 
 # Cd on quit (For more details, please check out https://superfile.dev/configure/superfile-config/#cd_on_quit)
 cd_on_quit = false
