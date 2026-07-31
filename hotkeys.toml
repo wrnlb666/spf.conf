@@ -26,7 +26,7 @@ file_panel_item_create = ['ctrl+n', '']
 file_panel_item_rename = ['ctrl+r', '']
 # file operate
 copy_items = ['ctrl+c', '']
-paste_items = ['ctrl+v', 'ctrl+w', '']
+paste_items = ['ctrl+v', 'ctrl+q', '']
 cut_items = ['ctrl+x', '']
 delete_items = ['ctrl+d', 'delete', '']
 permanently_delete_items = ['D', '']
